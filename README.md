@@ -14,7 +14,7 @@ Nous allons installer un cluster Cassandra à 6 nœuds et 2 Datacenter sur un en
 
 ### 0°) Pré-requis (déjà fait ici)  :
 
-  Sur une VM ou machine sans installation préalable, oOn aurait dû installer Docker et Docker Compose : 
+  Sur une VM ou machine sans installation préalable, on aurait dû installer Docker et Docker Compose : 
   
   On aurait suivi les instructions d’installation ici : https://docs.docker.com/compose/install
 
